@@ -1,0 +1,28 @@
+.elementor-202 .elementor-element.elementor-element-96cc983 {
+  overflow: visible;
+}
+
+.elementor-202 .elementor-element.elementor-element-7f8ad3b>.elementor-element-populated {
+  padding: 0px 0px 0px 0px;
+}
+
+.elementor-202 .elementor-element.elementor-element-75c93f3 {
+  text-align: right;
+  z-index: 9;
+}
+
+.elementor-202 .elementor-element.elementor-element-75c93f3 .elementor-image img {
+  border-radius: 10px 10px 10px 10px;
+}
+
+@media(max-width:1024px) {
+  .elementor-202 .elementor-element.elementor-element-75c93f3>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+  }
+}
+
+@media(max-width:767px) {
+  .elementor-202 .elementor-element.elementor-element-75c93f3>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+  }
+}
